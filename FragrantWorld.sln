@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FragrantWorld", "FragrantWorld\FragrantWorld.csproj", "{B97C0830-A25C-46F4-91D0-BBE5C3583815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{F8AE12C3-8340-4091-9AA8-B1A05E13FF39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{C66A2FE3-D853-4412-8567-F17374CA4BD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B97C0830-A25C-46F4-91D0-BBE5C3583815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97C0830-A25C-46F4-91D0-BBE5C3583815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97C0830-A25C-46F4-91D0-BBE5C3583815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97C0830-A25C-46F4-91D0-BBE5C3583815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8AE12C3-8340-4091-9AA8-B1A05E13FF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8AE12C3-8340-4091-9AA8-B1A05E13FF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8AE12C3-8340-4091-9AA8-B1A05E13FF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8AE12C3-8340-4091-9AA8-B1A05E13FF39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66A2FE3-D853-4412-8567-F17374CA4BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66A2FE3-D853-4412-8567-F17374CA4BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66A2FE3-D853-4412-8567-F17374CA4BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66A2FE3-D853-4412-8567-F17374CA4BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
